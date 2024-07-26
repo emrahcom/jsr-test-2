@@ -1,3 +1,4 @@
 .*
 !/.gitignore
+!/.github/workflows/publish.yml
 deno.lock
