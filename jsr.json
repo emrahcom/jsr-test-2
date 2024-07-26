@@ -1,0 +1,7 @@
+{
+  "name": "@emrahcom/jsr-test-2",
+  "version": "1.0.0",
+  "exports": [
+    "./mod.ts",
+  ]
+}
