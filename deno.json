@@ -1,6 +1,6 @@
 {
   "name": "@emrahcom/jsr-test-2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "exports": "./mod.ts",
   "tasks": {
     "test": "deno test --check --unstable --allow-all"
