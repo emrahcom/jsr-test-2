@@ -1,10 +1,7 @@
 {
   "name": "@emrahcom/jsr-test-2",
   "version": "1.0.0",
-  "exports": {
-    ".": "./mod.ts",
-    "./algorithm": "./algorithm.ts"
-  },
+  "exports": "./mod.ts",
   "tasks": {
     "test": "deno test --check --unstable --allow-all"
   },
